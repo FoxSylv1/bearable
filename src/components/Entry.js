@@ -1,5 +1,7 @@
 import './Entry.scss';
 
+
+
 function Entry(props) {
     var links = props.data.links.map((link, index) =>
         <a href={link.link} className="flex-element entry-link box" key={link.label}>
