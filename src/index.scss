@@ -16,6 +16,23 @@ body {
     font-size: 1.2rem;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.flex {
+    display: flex;
+    flex-wrap: row wrap;
+    justify-content: center;
+}
+.flex-element {
+    width: 45%;
+    margin: 1.5%;
+}
+
+
 .box {
     border: 1px rgba(60, 60, 60, 0.3) solid;
     border-radius: 20px;
