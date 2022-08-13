@@ -1,6 +1,6 @@
-import './Link.scss';
+import './Entry.scss';
 
-function Link(props) {
+function Entry(props) {
     return (
         <div className="entry box">
             <h3>
@@ -13,4 +13,4 @@ function Link(props) {
     );
 }
 
-export default Link;
+export default Entry;

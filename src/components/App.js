@@ -1,5 +1,5 @@
 import Title from './Title';
-import Links from './Links';
+import Entries from './Entries';
 import './App.scss';
 
 function App() {
@@ -8,8 +8,8 @@ function App() {
             <div id="title-container">
                 <Title />
             </div>
-            <div id="links-container">
-                <Links />
+            <div id="entries-container">
+                <Entries />
             </div>
         </div>
     );

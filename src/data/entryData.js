@@ -1,4 +1,4 @@
-export const entries = [
+export const entryData = [
     {
         title: "title",
         subtitle: "subtitle",
