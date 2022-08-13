@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bearable/static/css/main.6b8b1d00.css",
-    "main.js": "/bearable/static/js/main.616d8663.js",
+    "main.css": "/bearable/static/css/main.ec8ecb48.css",
+    "main.js": "/bearable/static/js/main.f32e1607.js",
     "static/js/787.dbf7d5c8.chunk.js": "/bearable/static/js/787.dbf7d5c8.chunk.js",
     "index.html": "/bearable/index.html",
-    "main.6b8b1d00.css.map": "/bearable/static/css/main.6b8b1d00.css.map",
-    "main.616d8663.js.map": "/bearable/static/js/main.616d8663.js.map",
+    "main.ec8ecb48.css.map": "/bearable/static/css/main.ec8ecb48.css.map",
+    "main.f32e1607.js.map": "/bearable/static/js/main.f32e1607.js.map",
     "787.dbf7d5c8.chunk.js.map": "/bearable/static/js/787.dbf7d5c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b8b1d00.css",
-    "static/js/main.616d8663.js"
+    "static/css/main.ec8ecb48.css",
+    "static/js/main.f32e1607.js"
   ]
 }
