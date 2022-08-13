@@ -13,6 +13,12 @@ export const entryData = [
                 {label: "calendar", link: "https://outlook.office.com/calendar/"}]
     },
     {
+        title: "dining services",
+        subtitle: "view dining hall menus and hours",
+        links: [{label: "menu", link: "https://bowdoin.edu/dining/menus/"},
+                {label: "hours", link: "https://bowdoin.edu/dining/hours-and-locations/"}]
+    },
+    {
         title: "onecard",
         subtitle: "view your onecard data",
         links: [{label: "meal swipes", link: "https://csgoldweb.bowdoin.edu"},
@@ -23,12 +29,6 @@ export const entryData = [
         subtitle: "view your current residence/mailing address, or apply for housing",
         links: [{label: "current", link: "https://www.bowdoin.edu/directory/"},
                 {label: "apply", link: "https://starrez.bowdoin.edu"}]
-    },
-    {
-        title: "dining services",
-        subtitle: "view dining hall menus and hours",
-        links: [{label: "menu", link: "https://bowdoin.edu/dining/menus/"},
-                {label: "hours", link: "https://bowdoin.edu/dining/hours-and-locations/"}]
     },
     {
         title: "community",
@@ -67,7 +67,7 @@ export const entryData = [
                 {label: "mental", link: "https://bowdoin.edu/counseling/"}]
     },
     {
-        title: "course evaluations",
+        title: "course evals",
         subtitle: "view or submit course evaluations",
         links: [{label: "BCQs", link: "https://blackboard.bowdoin.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_218_1"}]
     },

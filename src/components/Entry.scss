@@ -1,5 +1,6 @@
 .entry {
     padding: 2%;
+    min-width: unquote("min(100%, 310px)");
 }
 
 .entry-title {
