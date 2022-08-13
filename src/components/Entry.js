@@ -11,7 +11,7 @@ function Entry(props) {
 
     return (
         <div className="flex-element entry box">
-            <a href={(props.data.links[0]).link}>
+            <a href={(props.data.links[0]).link} tabindex="-1">
                 <h3 className="entry-title">
                     {props.data.title}
                 </h3>
