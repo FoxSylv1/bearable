@@ -51,7 +51,7 @@ export const entryData = [
     {
         title: "financial services",
         subtitle: "view payment and financial aid information",
-        links: [{label: "bill", link: "https://quikpayasp.com/bowdoin/quikpay/spa/viewandpayindex.do"},
+        links: [{label: "bill", link: "https://apps.bowdoin.edu/quikpayweb/studentlogin"},
                 {label: "financial aid", link: "https://netpartner.bowdoin.edu"}]
     },
     {
