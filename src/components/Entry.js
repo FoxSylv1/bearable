@@ -10,7 +10,7 @@ function Entry(props) {
     );
 
     return (
-        <div className="flex-element box">
+        <div className="flex-element entry box">
             <a href={(props.data.links[0]).link}>
                 <h3 className="entry-title">
                     {props.data.title}
