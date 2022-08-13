@@ -63,8 +63,8 @@ export const entryData = [
     {
         title: "health",
         subtitle: "view supports for your well-being",
-        links: [{label: "mental", link: "https://bowdoin.edu/counseling/"},
-                {label: "physical", link: "https://bowdoin.edu/health/"}]
+        links: [{label: "physical", link: "https://bowdoin.edu/health/"},
+                {label: "mental", link: "https://bowdoin.edu/counseling/"}]
     },
     {
         title: "course evaluations",
