@@ -67,6 +67,12 @@ export const entryData = [
                 {label: "mental", link: "https://bowdoin.edu/counseling/"}]
     },
     {
+        title: "location",
+        subtitle: "view where you are",
+        links: [{label: "campus map", link: "https://www.bowdoin.edu/about/campus-location/maps/campus-map.pdf"},
+                {label: "local map", link: "https://www.google.com/maps/place/Brunswick,+ME+04011"}]
+    },
+    {
         title: "course evals",
         subtitle: "view or submit course evaluations",
         links: [{label: "BCQs", link: "https://blackboard.bowdoin.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_218_1"}]
