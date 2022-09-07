@@ -27,7 +27,7 @@ export const entryData = [
     {
         title: "housing & mail",
         subtitle: "view your current residence/mailing address, or apply for housing",
-        links: [{label: "current", link: "https://www.bowdoin.edu/directory/"},
+        links: [{label: "current", link: "https://luminis.bowdoin.edu/"},
                 {label: "apply", link: "https://starrez.bowdoin.edu"}]
     },
     {
