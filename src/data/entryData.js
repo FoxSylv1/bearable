@@ -3,7 +3,6 @@ export const entryData = [
         title: "classwork",
         subtitle: "view and submit schoolwork",
         links: [{label: "canvas", link: "https://bowdoin.instructure.com"},
-                {label: "blackboard", link: "https://blackboard.bowdoin.edu"},
                 {label: "gradescope", link: "https://www.gradescope.com"}]
     },
     {
